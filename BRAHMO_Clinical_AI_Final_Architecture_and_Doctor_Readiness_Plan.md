@@ -1699,9 +1699,11 @@ The handover record names the approved capability, validated populations and spe
 
 ## S9 Â· AI-Usage Note
 
-1. I used AI to help structure the architecture, draft the decision register, identify safety gaps, create flowcharts and organize the validation and handover plans. I remain responsible for the final decisions and factual claims.
+
+1. I used AI to help explore and design the architecture, compare alternatives, structure the decision register, identify safety gaps, create flowcharts and organize the validation and handover plans. I reviewed the recommendations and remain responsible for the final decisions and factual claims.
 
 2. I independently checked and retained the recommendation that medication-safety checks must run outside the LLM using deterministic, versioned data. I also added an explicit state machine and tool allowlist because the supplied architecture did not define how prompt injection or invalid workflow transitions would be prevented.
 
 3. The most important remaining uncertainty is the exact Indian legal and regulatory classification of the shipped software, including medical-device, privacy and telemedicine obligations. The affected capability must not be treated as approved until qualified reviewers confirm the position for the actual deployment and intended use.
     
+
