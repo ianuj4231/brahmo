@@ -4,9 +4,9 @@
 
 **Submission date:**  oct 21 
 
-**Opening time:**  oct 21 ...  12  pm 
+**Opening time:**  oct 21  . 2026...  12  pm 
 
-**Submission time:**  oct 21    2 pm  
+**Submission time:**  oct 21 ... 2026...     2 pm  
 
 ## S1 Â· Final Architecture
 
